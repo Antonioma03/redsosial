@@ -1,0 +1,45 @@
+body{
+background-image: linear-gradient(to right top, rgb(0, 217, 255),rgb(95, 95, 161));
+height: 500%;
+}
+#titulo{
+color: rgb(255, 255, 255);
+font-family: 'Yeon Sung';
+font-size: 180px;
+letter-spacing: 10px;
+margin-top: 80px;
+}
+#iconomensaje{
+    width: 300px;
+
+}
+
+#inisio{
+background-color: rgb(255, 255, 255);
+margin-left: 100px;
+margin-right: 100px;
+border-style: dashed;
+border-color: rgb(2, 2, 102);
+}
+#logo{
+width: 200px;
+border-radius: 100px;
+margin-top: 0px;
+}
+
+#inisiar
+{
+    background-color: teal;
+    width: 30%;
+    border-radius: 15px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+#nombreusuario{
+    width: 300px;
+    text-align:center;
+    font-style: italic;
+}
+#icono_check{
+    width: 50px;
+}
